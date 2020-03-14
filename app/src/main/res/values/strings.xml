@@ -4,6 +4,7 @@
     <string name="enter_the_url">Enter the url</string>
     <string name="app_info_here">App Info Here</string>
     <string name="app_info">Hey ! \n This is the app info text view. \n We will take Url from user and display a webview</string>
+    <string name="app_info_text">Hey there ! \n This the app info area</string>
 </resources>
 
 
